@@ -62,28 +62,3 @@ try:
 		print('Guess Must Be a Number between 0 and 20...')
 except ValueError:
 	print('Guess Must be an Integer!')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
